@@ -1,4 +1,4 @@
-package com.jasonxu
+package com.jasonxu.examples
 
 import org.apache.spark.sql.SparkSession
 
